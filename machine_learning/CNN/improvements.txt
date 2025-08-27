@@ -1,0 +1,13 @@
+improvements
+
+- try to move the TensorFlow stuff to PyTorch, just makes things easier
+- currently using the countNodes method (which only works on label data) + feeding in a count to visualize
+	- look at the statistical distributions of rows and columns w/o a node (mean, stdev, etc)
+	- come up with a rule based on these stats to determine if a row corresponds to a node or not
+- visualize currently only selects the maximum-weight transition, worked in previous datasets
+	- change this to accommodate for new datasets with branching. Try to find some rule to determine whether a positive value corresponds to an edge or is just noise
+- get access to computing resources ASAP. I had to do everything in Google Colab, which hampered my progress. Get resources and be more aggressive in training various different models
+- potentially: to verify whether the autoencoder can do its job, get Mason to make a dataset of "noisy" coincidence matrices paired with the de-noised versions
+	- train an autoencoder on this and freeze the weights
+	- this will ensure that the autoencoder serves its purpose of sharpening the peaks
+- come up with custom loss function or some sort of fidelity score rather than using MSE loss
