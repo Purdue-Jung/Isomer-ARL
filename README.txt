@@ -1,20 +1,17 @@
 #Isomer Lab 
-   #Last updated: 08-20-2025
-   #Main Contributing Author: Myron Milad Tadros
+   #Last commit: 08-27-2025
+   
 
 #Description:
    #This repository contains research work from Isomer lab during Summer 2025.  
-   #It is organized into two main parts:
-     # **machine_learning/** – Data-driven methods and ML models  
-     # **toy_models/** – Simplified or analytical models for conceptual understanding  
 
-
-#Structure
-
-phd-lab-summer-2025/
+#Structure:
+Isomer-ARL
 ├── machine_learning/ # ML work
+   ├── CNN
+   ├── GRAN
 ├── toy_models/ # Toy model simulations
-├── data_cleaning/ #data cleaning for matrix purposes
+├── data_cleaning/ # Simplified/analytical models for conceptual understanding  
 ├── 
 └── docs/ # Documentation and references
 
@@ -23,7 +20,7 @@ phd-lab-summer-2025/
 - `data/` – (not versioned) data storage
 - `results/` – Plots, metrics, and outputs
 
-#Setup
+#Setup:
    #Clone the repository:
    #git clone https://github.com/YOUR-USERNAME/phd-lab-summer-2025.git
 
