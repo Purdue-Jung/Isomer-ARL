@@ -1,0 +1,607 @@
+﻿E(level)(keV),Jπ(level),T1/2(level),E(γ)(keV),I(γ),M(γ)
+0,0+,"6.77 m 30 , % ε = 100",,,
+158.64 5,2+,497 ps 23,158.64 4,100,E2
+470.46 6,4+,16.4 ps 5,311.87 5,100,E2
+809.96 6,(2+),,"651.26 5 ,    810.0 3","93.6 20 ,   100 9",","
+897.17 12,6+,3.24 ps 19,426.7 1,100,E2
+1007.16 6,(3+),,"536.81 7 ,    848.41 6","15.7 16 ,   100 7",","
+1064.99 10,(0+),,906.35 9,100,(E2)
+1162.70 8,,,692.23 6,100,
+1218.76 8,2+,,"748.25 7 ,   1060.2 1 ,   1218.8 3","100 7 ,    77 10 ,    33 13",", ,"
+1332.41 7,"(2+,3,4+)",,"861.97 7 ,   1173.74 7","92 5 ,   100 7",","
+1404.85 7,,,"397.6 1 ,    594.65 10 ,   1246.37 7","51 5 ,   100 16 ,    95 5",", ,"
+1406.4 6,8+,1.05 ps 10,509.5 3,100,E2
+1418.9 14,(5+),,"413,    949",",",","
+1466.3 6,(5-),,995.8 10,100,D
+1551.39 10,(4-),,"544.27 10 ,   1080.86 12","59 11 ,   100 13",", D"
+1603.05 21,"(2+,3,4+)",,"1132.75 11 ,   1444.4 2","100 12 ,    92 4",","
+1726.3 6,(7-),,"259,    320,    829.3 3",",  ,   100",", , D"
+1841.1 6,(6-),,"289.2 3 ,    374.7 3 ,    421,    944.3 3","34 7 ,   100 10 ,  ,    90 10",", , , D"
+1971.9 6,10+,0.7 ps 5,565.5 3,100,E2
+2078.5 6,(9-),1.7 ps 4,"352.2 3 ,    672.2 3","28 3 ,   100 5","E2, D"
+2197.3 6,(8-),,"356.3 3 ,    471.0 3","100 10 ,    80 8",","
+2376.5 16,(8-),,537,,
+2496.7 6,(11-),,"418.1 3 ,    524.7 3","100 10 ,    62 6","(E2), D"
+2539.7 6,(10-),,"342.5 3 ,    461.2 3","100 10 ,    87 9",","
+2565.8 7,12+,0.9 ps 7,594.0 3,100,E2
+2680.1 16,(10-),,"304,    484",",",", Q"
+2734.6 7,12+,,"168,    762.7 3",",   100",", (E2)"
+2793.1 18,(11-),,716,100,
+2910.9 6,(12-),,"371.3 3 ,    414.0 3","100 10 ,    47 4","(E2),"
+2962.2 7,(13-),,"396.4 3 ,    465.4 3","8.2 16 ,   100 5",", (E2)"
+3009.2 7,14+,6.9 ps 7,"274.6 3 ,    443.4 3","22.3 24 ,   100 5","E2, E2"
+3023.9 18,(12+),,"460,   1054",",",","
+3085.8 17,(12-),,"406,    547",",",","
+3211.1 7,14(+),,645.3 3,100,(E2)
+3231.4 18,(13-),,"438,    737",",",", Q"
+3375.1 7,(14-),,"413,    464.2 3",",   100",", (E2)"
+3449.0 8,16+,,439.8 3,100,(E2)
+3472.6 7,(15-),,"261,    510.4 3",",   100",", (E2)"
+3515.8 18,(14+),,"492,    952",",",","
+3585.6 18,(14-),,500,100,
+3779.4 18,(15-),,"548,    819",",",", Q"
+3817.4 20,(15-),,811,,
+3835.2 8,(16+),,624,100,
+3920.3 8,(16-),,"448,    545.2 3",",   100",", (E2)"
+3972.1 20,(15-),,965,100,
+4009.2 8,18+,,560.2 3,100,(E2)
+4030.1 8,(17-),,557.5 3,100,(E2)
+4064.7 19,(16+),,"549,    856",",",","
+4163.5 19,(16-),,578,100,
+4228.5 19,(16-),,643,100,
+4374.0 20,(17-),,"557,    927",",",","
+4400.4 21,(17-),,621,100,
+4443.4 20,(17-),,"471,    997",",",","
+4445.4 20,(14-),,,,
+4459.3 9,(18+),,623,100,
+4516.0 8,(18-),,595.7 3,100,
+4582.0 19,(15-),,"137,   1373,   1575",",  ,",", ,"
+4625.2 9,(19-),,595.1 3,100,
+4641.4 19,(18-),,"413,    478,    723",",  ,",", , Q"
+4671.0 9,20+,,661.8 3,100,
+4677.4 20,(18+),,"613,    844",",",","
+4744.9 19,(16-),,"163,    299,   1298",",  ,",", , D"
+4823.5 22,(18-),,660,100,
+4937.1 19,(17-),,"192,    355,   1491",",  ,",", ,"
+5005.6 20,(19-),,"562,    632,    999",",  ,",", ,"
+5031.3 20,(19-),,"588,    657,   1025",",  ,",", , D"
+5071.4 23,(19-),,671,100,
+5086.9 22,(19-),,1059,100,(Q)
+5089.6 9,(20-),,573.6 3,100,
+5121.7 9,(20+),,662.3 3,100,
+5157.5 21,(19+),,1151,100,
+5160.0 20,(18-),,"223,    415,   1153",",  ,",", ,"
+5214.3 20,(20-),,"573,    700",",",", Q"
+5253.3 9,(21-),,628.1 3,100,(E2)
+5313.0 21,(20+),,"636,    856",",",","
+5409.9 9,22+,,738.9 3,100,[E2]
+5410.0 21,(19-),,"250,    473",",",","
+5510.5 24,(20-),,687,100,
+5665.9 23,(21-),,"579,   1043",",",","
+5672.7 22,(21-),,667,100,
+5678.8 9,(22-),,589.2 3,100,
+5687.1 21,(20-),,"277,    527",",",","
+5720.4 21,(21-),,"689,   1052",",",","
+5784.4 25,(21-),,713,100,
+5798.5 21,(21+),,"641,   1130",",",","
+5851.7 10,(22+),,"730.0 3 ,   1180","100,",","
+5897.3 22,(22-),,683,,
+5926.9 10,(23-),,673.6 3,100,
+5986.0 23,(22+),,"673,    867?",",",","
+5987.8 22,(21-),,"301,    578",",",","
+6201.2 10,24+,,791.3 3,100,
+6243 3,(22-),,733,100,
+6310.6 22,(22-),,"323,    623",",",","
+6331.0 24,(23-),,"665,   1080",",",", Q"
+6356.4 10,(24-),,677.6 3,100,
+6385.7 25,(23-),,713,100,
+6441.4 23,(23-),,721,100,
+6531 3,(23-),,747,100,
+6536.5 24,(23+),,738,100,
+6615.0 22,(24+),,"766,   1208",",",","
+6641.3 24,(24-),,744,100,
+6650.6 23,(23-),,"340,    663",",",","
+6665.5 10,(25-),,738.6 3,100,
+6978 3,(24-),,735,100,
+7006.6 23,(24-),,"356,    696",",",","
+7030.1 10,26+,,828.9 3,100,
+7078.2 25,(25-),,"747,   1155",",",","
+7137.4 10,(26-),,781.0 3,100,
+7145 3,(25-),,759,100,
+7199.4 25,25-,,758,100,
+7314 3,(25-),,783,100,
+7342 3,(25+),,806,100,
+7363.6 23,(25-),,"357,    713",",",","
+7392.1 23,(26+),,"777,   1195",",",","
+7444 3,(26-),,803,100,
+7481.1 11,(27-),,815.6 3,100,
+7713.6 24,(26-),,"350,    707",",",","
+7770 3,(26-),,792,100,
+7894.7 11,28+,,864.6 3,100,
+7899 3,(27-),,821,100,
+7954 3,(27-),,809,100,
+8007 3,(27-),,808,100,
+8017.3 11,(28-),,879.9 3,100,
+8062.7 24,(27-),,"349,    699",",",","
+8222.0 25,(28+),,830,100,
+8303 3,(28-),,859,100,
+8375.4 11,(29-),,894.3 3,100,
+8426.4 25,(28-),,"364,    713",",",","
+8767 3,(29-),,868,100,
+8800.7 15,30+,,906 1,100,
+8808.1 25,(29-),,"382,    745",",",","
+8817 3,(29-),,863,100,
+8871 3,(29-),,864,100,
+8980.0 15,(30-),,962.7 10,100,
+9116 3,(30+),,894,100,
+9212 3,(30-),,"404,    786",",",","
+9216 3,(30-),,913,100,
+9337.8 15,(31-),,962.4 10,100,
+9635 3,(31-),,"423,    827",",",","
+9682 3,(31-),,915,100,
+9734 4,(31-),,917,100,
+9753.5 18,32+,,952.7 10,100,
+9771 3,(31-),,900,100,
+9991.2 18,(32-),,1011.2 10,100,
+10009 3,(32+),,893,100,
+10080 3 ?,(32-),,"445?,    867?",",",","
+10167 4,(32-),,951,100,
+10330 2,(33-),,992.5 10,100,
+10721 4,(33-),,987,100,
+10747.5 21,34+,,994 1,100,
+10933 3,(34+),,924,100,
+10994 4,(34-),,1007,100,
+11298 4,(35-),,972,100,
+11751 4,36+,,1009,100,
+11928 4,(36+),,995,100,
+12005 4,(36-),,1011,100,
+12289 4,(37-),,991,100,
+12762 4,38+,,1011,100,
+13038 4,(38-),,1033,100,
+13328 4,(39-),,1039,100,
+13800 4,40+,,1038,100,
+14096 4,(40-),,1058,100,
+14424 4,(41-),,1096,100,
+14879 4,42+,,1079,100,
+15575 4 ?,(43-),,1151?,100,
+16006 4 ?,(44+),,1127?,100,
+0.0+X,,,,,
+236.0+X 8,,,236,100,
+486.0+X 8,,,"250,    486",",",","
+759.0+X 10,,,"273,    523",",",","
+1064.1+X 11,,,"305,    578",",",","
+1387.7+X 12,,,"323,    629",",",","
+1734.9+X 13,,,"347,    671",",",","
+2095.8+X 13,,,"361,    708",",",","
+2475.9+X 14,,,"380,    741",",",","
+2860.7+X 15,,,"385,    765",",",","
+3256.1+X 15,,,"396,    780",",",","
+3665.0+X 16,,,"409,    804",",",","
+4083.1+X 17,,,"418,    827",",",","
+0.0+Y,,,,,
+204.0+Y 8,,,204,100,
+438.0+Y 8,,,"234,    438",",",","
+697.0+Y 10,,,"259,    493",",",","
+977.0+Y 11,,,"280,    539",",",","
+1274.0+Y 12,,,"297,    577",",",","
+1582.0+Y 13,,,"308,    605",",",","
+1905.0+Y 13,,,"323,    631",",",","
+2240.0+Y 14,,,"335,    658",",",","
+,,,,,
+E(level)(keV),T1/2(level),E(γ)(keV),Multipolarity,ConversionCoefficient,Additional Data
+158.64,497 ps 23,158.64 4,E2,0.636,"B(E2)(W.u.)=128 7, α=0.636"
+470.46,16.4 ps 5,311.87 5,E2,0.0706,"B(E2)(W.u.)=202 7, α=0.0706"
+897.17,3.24 ps 19,426.7 1,E2,0.0292,"B(E2)(W.u.)=221 13, α=0.0292"
+1064.99,,906.35 9,(E2),0.005,α=0.00500
+1406.4,1.05 ps 10,509.5 3,E2,0.0185,"B(E2)(W.u.)=280 30, α=0.0185"
+1971.9,0.7 ps 5,565.5 3,E2,0.0129,"B(E2)(W.u.)=250 +640-110, α=0.0129"
+2078.5,1.7 ps 4,352.2 3,E2,0.0495,"B(E2)(W.u.)=250 60, α=0.0495"
+2496.7,,418.1 3,(E2),0.0308,α=0.0308
+2565.8,0.9 ps 7,594.0 3,E2,0.01271,"B(E2)(W.u.)=155 +550-70, α=0.01271"
+2734.6,,762.7 3,(E2),0.00721,α=0.00721
+2910.9,,371.3 3,(E2),0.0427,α=0.0427
+2962.2,,465.4 3,(E2),0.0232,α=0.0232
+3009.2,6.9 ps 7,274.6 3,E2,0.1037,"B(E2)(W.u.)=168 17, α=0.1037"
+14+,443.4 3,E2,0.0264,"B(E2)(W.u.)=70 7, α=0.0264",
+3211.1,,645.3 3,(E2),0.01048,α=0.01048
+3375.1,,464.2 3,(E2),0.0234,α=0.0234
+3449,,439.8 3,(E2),0.0269,α=0.0269
+3472.6,,510.4 3,(E2),0.0184,α=0.0184
+3920.3,,545.2 3,(E2),0.01561,α=0.01561
+4009.2,,560.2 3,(E2),0.01462,α=0.01462
+4030.1,,557.5 3,(E2),0.01479,α=0.01479
+5253.3,,628.1 3,(E2),0.01115,α=0.01115
+5409.9,,738.9 3,[E2],0.00779,α=0.00779
+,,,,,
+E(level),T1/2(level),Comments,,,
+0,"6.77 m 30 , % ε = 100",E(level): Kπ=0+ GS band.,,,
+158.64,497 ps 23,E(level): Kπ=0+ GS band.,,,
+470.46,16.4 ps 5,E(level): Kπ=0+ GS band.,,,
+809.96,,"E(level): Kπ=2+ γ-vibrational band., Jπ(level): Proposed by 1977Le08 in ε decay.",,,
+897.17,3.24 ps 19,E(level): Kπ=0+ GS band.,,,
+1007.16,,"E(level): Kπ=2+ γ-vibrational band., Jπ(level): Proposed by 1977Le08 in ε decay.",,,
+1406.4,1.05 ps 10,E(level): Kπ=0+ GS band.,,,
+1418.9,,"E(level): Kπ=2+ γ-vibrational band., Jπ(level): Proposed by 1977Le08 in ε decay.",,,
+1466.3,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+1551.39,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+1726.3,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+1841.1,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+1971.9,0.7 ps 5,E(level): Kπ=0+ GS band.,,,
+2078.5,1.7 ps 4,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+2197.3,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+2376.5,,E(level): BE band (2000Ri11).,,,
+2496.7,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+2539.7,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+2565.8,0.9 ps 7,E(level): Kπ=0+ GS band.,,,
+2680.1,,E(level): BE band (2000Ri11).,,,
+2734.6,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+2793.1,,E(level): BF band (2000Ri11).,,,
+2910.9,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+2962.2,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+3009.2,6.9 ps 7,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+3023.9,,E(level): EFBC band (2000Ri11).,,,
+3085.8,,E(level): BE band (2000Ri11).,,,
+3211.1,,E(level): BC band (2000Ri11).,,,
+3231.4,,E(level): BF band (2000Ri11).,,,
+3375.1,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+3449,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+3472.6,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+3515.8,,E(level): EFBC band (2000Ri11).,,,
+3585.6,,E(level): BE band (2000Ri11).,,,
+3779.4,,E(level): BF band (2000Ri11).,,,
+3817.4,,E(level): AGEF band (2000Ri11).,,,
+3835.2,,E(level): BC band (2000Ri11).,,,
+3920.3,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+3972.1,,E(level): AGEH band (2000Ri11).,,,
+4009.2,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+4030.1,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+4064.7,,E(level): EFBC band (2000Ri11).,,,
+4163.5,,E(level): BE band (2000Ri11).,,,
+4228.5,,E(level): AHBC band (2000Ri11).,,,
+4374,,E(level): AGEF band (2000Ri11).,,,
+4400.4,,E(level): BF band (2000Ri11).,,,
+4443.4,,E(level): AGEH band (2000Ri11).,,,
+4459.3,,E(level): BC band (2000Ri11).,,,
+4516,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+4582,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+4625.2,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+4641.4,,E(level): AHBC band (2000Ri11).,,,
+4671,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+4677.4,,E(level): EFBC band (2000Ri11).,,,
+4823.5,,E(level): BE band (2000Ri11).,,,
+4937.1,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+5005.6,,E(level): AGEF band (2000Ri11).,,,
+5031.3,,E(level): AGEH band (2000Ri11).,,,
+5071.4,,E(level): BF band (2000Ri11).,,,
+5086.9,,E(level): AGBC band (2000Ri11).,,,
+5089.6,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+5121.7,,E(level): BC band (2000Ri11).,,,
+5157.5,,E(level): Band 3 (2000Ri11).,,,
+5214.3,,E(level): AHBC band (2000Ri11).,,,
+5253.3,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+5313,,E(level): EFBC band (2000Ri11).,,,
+5409.9,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+5410,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+5510.5,,E(level): BE band (2000Ri11).,,,
+5665.9,,E(level): AGBC band (2000Ri11).,,,
+5672.7,,E(level): AGEF band (2000Ri11).,,,
+5678.8,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+5720.4,,E(level): AGEH band (2000Ri11).,,,
+5784.4,,E(level): BF band (2000Ri11).,,,
+5798.5,,E(level): Band 3 (2000Ri11).,,,
+5851.7,,E(level): BC band (2000Ri11).,,,
+5897.3,,E(level): AHBC band (2000Ri11).,,,
+5926.9,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+5986,,E(level): EFBC band (2000Ri11).,,,
+5987.8,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+6201.2,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+6243,,E(level): BE band (2000Ri11).,,,
+6331,,E(level): AGBC band (2000Ri11).,,,
+6356.4,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+6385.7,,E(level): AGEF band (2000Ri11).,,,
+6441.4,,E(level): AGEH band (2000Ri11).,,,
+6531,,E(level): BF band (2000Ri11).,,,
+6536.5,,E(level): Band 3 (2000Ri11).,,,
+6615,,E(level): BC band (2000Ri11).,,,
+6641.3,,E(level): AHBC band (2000Ri11).,,,
+6650.6,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+6665.5,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+6978,,E(level): BE band (2000Ri11).,,,
+7030.1,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+7078.2,,E(level): AGBC band (2000Ri11).,,,
+7137.4,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+7145,,E(level): AGEF band (2000Ri11).,,,
+7199.4,,E(level): AGEH band (2000Ri11).,,,
+7314,,E(level): BF band (2000Ri11).,,,
+7342,,E(level): Band 3 (2000Ri11).,,,
+7363.6,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+7392.1,,E(level): BC band (2000Ri11).,,,
+7444,,E(level): AHBC band (2000Ri11).,,,
+7481.1,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+7770,,E(level): BE band (2000Ri11).,,,
+7894.7,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+7899,,E(level): AGBC band (2000Ri11).,,,
+7954,,E(level): AGEF band (2000Ri11).,,,
+8007,,E(level): AGEH band (2000Ri11).,,,
+8017.3,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+8062.7,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+8222,,E(level): BC band (2000Ri11).,,,
+8303,,E(level): AHBC band (2000Ri11).,,,
+8375.4,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+8767,,E(level): AGBC band (2000Ri11).,,,
+8800.7,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+8808.1,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+8817,,E(level): AGEF band (2000Ri11).,,,
+8871,,E(level): AGEH band (2000Ri11).,,,
+8980,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+9116,,E(level): BC band (2000Ri11).,,,
+9216,,E(level): AHBC band (2000Ri11).,,,
+9337.8,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+9635,,"E(level): Kπ=10-, α=0 gfAE band (2000Ri11).",,,
+9682,,E(level): AGBC band (2000Ri11).,,,
+9734,,E(level): AGEF band (2000Ri11).,,,
+9753.5,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+9771,,E(level): AGEH band (2000Ri11).,,,
+9991.2,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+10009,,E(level): BC band (2000Ri11).,,,
+10167,,E(level): AHBC band (2000Ri11).,,,
+10330,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+10721,,E(level): AGEF band (2000Ri11).,,,
+10747.5,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+10933,,E(level): BC band (2000Ri11).,,,
+10994,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+11298,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+11751,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+11928,,E(level): BC band (2000Ri11).,,,
+12005,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+12289,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+12762,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+13038,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+13328,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+13800,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+14096,,"E(level): AF band (2000Ri11)., Jπ(level): Transitions connecting the two side bands have positive anisotropies and are interpreted as mixed M1,E2 transitions (1987Bl06) in (HI,xnγ).",,,
+14424,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+14879,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+15575,,"E(level): Kπ=5- AE band (2000Ri11)., Jπ(level): The interband transition between side band 1 and the ground-state band show angular distributions of pure stretched dipole type, most likely E1.",,,
+16006,,"E(level): AB band (2000Ri11)., Jπ(level): Jπ established for J=12 through J=42 band members based on smooth progression of Eγ for intraband cascade, Jπ=14+ for 3007 level and E2 intraband 275γ to 2566.",,,
+0.0+X,,E(level): Band 2 (2000Ri11).,,,
+236.0+X,,E(level): Band 2 (2000Ri11).,,,
+486.0+X,,E(level): Band 2 (2000Ri11).,,,
+759.0+X,,E(level): Band 2 (2000Ri11).,,,
+1064.1+X,,E(level): Band 2 (2000Ri11).,,,
+1387.7+X,,E(level): Band 2 (2000Ri11).,,,
+1734.9+X,,E(level): Band 2 (2000Ri11).,,,
+2095.8+X,,E(level): Band 2 (2000Ri11).,,,
+2475.9+X,,E(level): Band 2 (2000Ri11).,,,
+2860.7+X,,E(level): Band 2 (2000Ri11).,,,
+3256.1+X,,E(level): Band 2 (2000Ri11).,,,
+3665.0+X,,E(level): Band 2 (2000Ri11).,,,
+4083.1+X,,E(level): Band 2 (2000Ri11).,,,
+0.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+204.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+438.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+697.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+977.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+1274.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+1582.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+1905.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+2240.0+Y,,E(level): From 166Ta ε decay. Band 1 (2000Ri11).,,,
+,,,,,
+E(level),Comments,,,,
+158.64,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay., M(γ): stretched Q from γ(θ) in (HI,xnγ); not M2 from RUL.",,,,
+470.46,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+809.96,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+810,,,,,
+897.17,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+1007.16,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+848.41,,,,,
+1064.99,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay., M(γ): Q from 906γ-159γ(θ) in ε decay.",,,,
+1162.7,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+1218.76,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+1060.2,,,,,
+1218.8,,,,,
+1332.41,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+1173.74,,,,,
+1404.85,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+594.65,,,,,
+1246.37,,,,,
+1418.9,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+949,,,,,
+1551.39,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+1080.86,,,,,
+1603.05,"E(γ): From 166Ta ε decay., I(γ): From 166Ta ε decay.",,,,
+1444.4,,,,,
+1726.3,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+320,,,,,
+1841.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+2376.5,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+2680.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+484,,,,,
+2734.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+2793.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+3023.9,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+1054,,,,,
+3085.8,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+547,,,,,
+3231.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+737,,,,,
+3375.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+3472.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+3515.8,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+952,,,,,
+3585.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+3779.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+819,,,,,
+3817.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+3835.2,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+3920.3,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+3972.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+4064.7,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+856,,,,,
+4163.5,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+4228.5,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+4400.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+4443.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+997,,,,,
+4459.3,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+4582,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+1373,,,,,
+1575,,,,,
+4641.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+478,,,,,
+723,,,,,
+4677.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+844,,,,,
+4744.9,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+299,,,,,
+1298,,,,,
+4823.5,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+4937.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+355,,,,,
+1491,,,,,
+5005.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+632,,,,,
+999,,,,,
+5031.3,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+657,,,,,
+1025,,,,,
+5071.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+5086.9,"E(γ): From 96Zr(74Ge,4nγ)., M(γ): From DCO ratios in 96Zr(74Ge,4nγ), assigning intraband stretched Q transitions as (E2).",,,,
+5157.5,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+5160,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+415,,,,,
+1153,,,,,
+5214.3,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+700,,,,,
+5313,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+856,,,,,
+5410,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+473,,,,,
+5510.5,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+5665.9,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+5672.7,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+5687.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+527,,,,,
+5720.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+1052,,,,,
+5784.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+5798.5,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+1130,,,,,
+5851.7,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+5897.3,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+5986,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+867,,,,,
+5987.8,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+578,,,,,
+6243,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+6310.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+623,,,,,
+6331,"M(γ): From DCO ratios in 96Zr(74Ge,4nγ), assigning intraband stretched Q transitions as (E2).",,,,
+6385.7,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+6441.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+6531,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+6536.5,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+6615,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+1208,,,,,
+6641.3,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+6650.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+663,,,,,
+6978,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+7006.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+696,,,,,
+7078.2,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+1155,,,,,
+7145,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+7199.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+7314,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+7342,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+7363.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+713,,,,,
+7392.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+1195,,,,,
+7444,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+7713.6,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+707,,,,,
+7770,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+7899,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+7954,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+8007,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+8062.7,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+699,,,,,
+8222,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+8303,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+8426.4,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+713,,,,,
+8767,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+8808.1,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+745,,,,,
+8817,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+8871,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+9116,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+9212,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+786,,,,,
+9216,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+9635,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+827,,,,,
+9682,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+9734,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+9771,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+10009,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+10080,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+867,,,,,
+10167,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+10721,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+10933,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+10994,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+11298,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+11751,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+11928,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+12005,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+12289,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+12762,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+13038,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+13328,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+13800,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+14096,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+14424,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+14879,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+15575,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+16006,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+236.0+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+486.0+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+486,,,,,
+759.0+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+523,,,,,
+1064.1+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+578,,,,,
+1387.7+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+629,,,,,
+1734.9+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+671,,,,,
+2095.8+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+708,,,,,
+2475.9+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+741,,,,,
+2860.7+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+765,,,,,
+3256.1+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+780,,,,,
+3665.0+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+804,,,,,
+4083.1+X,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+827,,,,,
+204.0+Y,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+438.0+Y,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+438,,,,,
+697.0+Y,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+493,,,,,
+977.0+Y,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+539,,,,,
+1274.0+Y,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+577,,,,,
+1582.0+Y,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+605,,,,,
+1905.0+Y,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+631,,,,,
+2240.0+Y,"E(γ): From 96Zr(74Ge,4nγ).",,,,
+658,,,,,
