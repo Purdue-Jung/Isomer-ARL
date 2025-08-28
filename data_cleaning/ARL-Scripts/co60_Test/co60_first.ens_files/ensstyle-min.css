@@ -1,0 +1,604 @@
+input[type="checkbox"] {
+    margin: 5px;
+}
+
+.referenceHeadContainer {
+    margin-left: 60px;
+}
+
+.referenceHeadContainer>p {
+    margin: 20px;
+}
+
+#main {
+    padding-bottom: 20px;
+    flex-grow: 1;
+}
+
+#matchheader-ens {
+    margin: 20px;
+}
+
+.table_xundl {
+    width: 100%;
+}
+
+main {
+    margin-bottom: 20px;
+    flex-grow: 1;
+}
+
+main>table {
+    text-align: center;
+    margin: 0 0 20px 20px;
+}
+
+main>table span,
+.datasetsel {
+    margin-left: 30px;
+}
+
+main>table span>a {
+    text-decoration: none;
+    color: #3366FF;
+}
+
+#matchheader,
+main>h2 {
+    margin: 60px 20px 20px 20px
+}
+
+.body-xundl {
+    background-color: #ffeec3;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.body-ensdf {
+    background-color: #eff;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden
+}
+
+#header2 {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 13pt;
+    color: #212121;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline
+}
+
+#updated {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-size: 10pt;
+    text-align: center
+}
+
+#older {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 11pt;
+    text-align: center;
+    padding-bottom: .5em
+}
+
+#older a {
+    color: red
+}
+
+#pdfnotice {
+    width: 700px;
+    margin: auto;
+    border-style: double;
+    padding: 1em
+}
+
+.dbinfo {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    text-align: left;
+    font-size: 12pt;
+    color: #212121
+}
+
+.browsein {
+    float: center;
+    padding-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-size: 12pt;
+    text-align: left;
+    overflow: hidden
+}
+
+.xunrefs {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 12pt;
+    color: #212121
+}
+
+TABLE.ENDXUN {
+    empty-cells: show
+}
+
+TH {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 16pt;
+    color: #212121;
+    text-align: center;
+    vertical-align: top
+}
+
+TD.centered {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-size: 11pt;
+    color: #212121;
+    text-align: center
+}
+
+TD.title {
+    font-family: arial, tahoma, verdana, helvetica, sans-serif;
+    font-size: 16pt;
+    font-weight: 700;
+    color: #696969;
+    text-align: center
+}
+
+TD.dbversion {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    margin-bottom: 5cm
+}
+
+TH.title {
+    font-family: arial, tahoma, verdana, helvetica, sans-serif;
+    font-size: 26pt;
+    font-weight: 700;
+    color: #36F;
+    text-align: center
+}
+
+P {
+    font-size: 12pt
+}
+
+P.jusint {
+    text-indent: 15pt;
+    text-align: justify;
+    font-size: 12pt
+}
+
+H2.title {
+    font-family: arial, tahoma, verdana, helvetica, sans-serif;
+    font-size: 18pt;
+    font-weight: 700;
+    color: #696969;
+    text-align: center
+}
+
+H3.title {
+    font-family: arial, tahoma, verdana, helvetica, sans-serif;
+    font-size: 14pt;
+    font-weight: 700;
+    color: #696969;
+    text-align: left
+}
+
+TD.nav {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-size: 11pt;
+    text-align: center;
+    background: #e0e0e0
+}
+
+ADDRESS {
+    margin-bottom: 20px;
+    font-family: Times New Roman, serif;
+    font-size: 10pt
+}
+
+SPAN.ninept {
+    font-family: arial, tahoma, verdana, helvetica, sans-serif;
+    font-size: 9pt;
+    text-align: center
+}
+
+a:active {
+    outline: none
+}
+
+a:focus {
+    -moz-outline-style: none
+}
+
+.center-h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#tabs_container {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px
+}
+
+#tabs_container ul.tabs {
+    font-size: 16px;
+    list-style: none;
+    border-bottom: 1px solid #ccc;
+    height: 21px;
+    margin: 0;
+    overflow: hidden
+}
+
+#tabs_container ul.tabs li {
+    float: left;
+    overflow: hidden
+}
+
+#tabs_container ul.tabs li a {
+    padding: 3px 10px;
+    display: block;
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    margin-right: 2px;
+    text-decoration: none;
+    background-color: #efefef
+}
+
+#tabs_container ul.tabs li.active a {
+    background-color: #fff;
+    padding-top: 4px
+}
+
+div.tab_contents_container {
+    border: 1px solid #ccc;
+    border-top: none;
+    padding: 10px
+}
+
+div.tab_contents {
+    display: none
+}
+
+div.tab_contents_active {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-size: 11pt;
+    display: block
+}
+
+ul.dbtype-selection {
+    list-style-type: none;
+    align: left
+}
+
+.dataset_table {
+    width: 100%;
+    border: 1px solid black;
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    text-align: left
+}
+
+.dataset_table thead tr {
+    text-align: left
+}
+
+#index-table {
+    border: 1px solid black;
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    text-align: left;
+    width: 70%;
+    cellpadding: 3;
+    border: 0
+}
+
+.altrow-xun {
+    background-color: #CC9
+}
+
+.xun-althi {
+    background-color: yellow
+}
+
+.normrow-xun {
+    background-color: #FFC
+}
+
+.xun-normhi {
+    background-color: yellow
+}
+
+.altrow-ensdf {
+    background-color: #CCC
+}
+
+.ensdf-althi {
+    background-color: yellow
+}
+
+.normrow-ensdf {
+    background-color: #BBC
+}
+
+.ensdf-normhi {
+    background-color: yellow
+}
+
+.datasetsel {
+    text-align: center
+}
+
+.datasetsel table {
+    width: 10%
+}
+
+#left_floater {
+    float: left
+}
+
+.justbold {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700
+}
+
+.ensdf_cards {
+    font-family: lucida, tahoma, verdana, helvetica, sans-serif;
+    font-size: 12px
+}
+
+.ensdf_cards hr {
+    padding-bottom: 1em
+}
+
+.dwnld_table {
+    border-width: 1px;
+    border-spacing: 2px;
+    border-style: outset;
+    border-color: blue;
+    border-collapse: separate;
+    background-color: rgb(245, 245, 255)
+}
+
+.dwnld_mainset {
+    border-width: thin;
+    padding: 1px;
+    border-style: solid;
+    border-color: gray;
+    float: left;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700
+}
+
+.dwnld_dstable_sublist {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400
+}
+
+.dwnld_datasets {
+    border-width: thin;
+    padding: 1px;
+    border-style: solid;
+    border-color: gray;
+    float: left;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400
+}
+
+.error-message {
+    color: red
+}
+
+.allnucs {
+    width: 100%;
+    background-color: #fff;
+    align: left
+}
+
+.horizontal-list {
+    float: left;
+    display: inline;
+    list-style: none
+}
+
+.vertical-list {
+    float: top;
+    display: inline;
+    list-style: none
+}
+
+.browse-button {
+    border-width: 2px;
+    border-style: outset;
+    margin: .5em;
+    height: 30px;
+    width: 100px
+}
+
+.browse-hover {
+    color: #900;
+    background: #5F8;
+    border-style: groove;
+    border-width: 2px;
+    border-color: blue;
+    margin: .5em;
+    height: 30px;
+    width: 100px
+}
+
+.browse-xun {
+    border-width: 2px;
+    border-style: outset;
+    margin: .5em;
+    height: 30px;
+    width: 100px
+}
+
+.browse-hover-xun {
+    color: #900;
+    background: #5F8;
+    border-style: groove;
+    border-width: 2px;
+    border-color: blue;
+    margin: .5em;
+    height: 30px;
+    width: 100px
+}
+
+.error-message {
+    padding-top: 1em;
+    align: center;
+    color: red
+}
+
+.error-message h3 {
+    text-align: center;
+    color: red;
+    padding-bottom: 1em
+}
+
+.err-button {
+    text-align: center
+}
+
+.empty-message h3 {
+    color: red;
+    padding-bottom: 1em
+}
+
+.dnleft {
+    float: left
+}
+
+.dnright {
+    float: right
+}
+
+*>html .dnleft {
+    width: 49%
+}
+
+*>html .dnright {
+    width: 49%
+}
+
+table.content-columns {
+    position: relative;
+    width: 100%
+}
+
+td.content-left {
+    position: relative;
+    width: 200px
+}
+
+td.content-center {
+    min-width: 510px
+}
+
+td.content-center {
+    border-top: 1px solid #C3D5EA;
+    padding: 11px 15px 0;
+    position: relative
+}
+
+td.content-right {
+    position: relative;
+    width: 305px
+}
+
+div.leftmenu-sub {
+    background-color: #B7CBE1;
+    font-weight: 700;
+    font-size: 1em;
+    margin-left: 2em;
+    padding-bottom: .6em;
+    padding-left: 15px;
+    position: relative;
+    width: 200px
+}
+
+form.search p.searchHead {
+    color: 333366;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    margin: 0;
+    padding: 0
+}
+
+div#verticalMenu {
+    color: transparent
+}
+
+div#verticalMenu p {
+    background: none repeat scroll 0 0 transparent;
+    border: 1px solid #BBBDD6;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 70%;
+    margin: 2px 0 2px 2px;
+    padding: 0
+}
+
+div.newstuff {
+    padding-top: 1em;
+    padding-bottom: .5em;
+    text-align: left;
+    font-size: 11pt
+}
+
+.request-link {
+    width: 150px;
+    height: 50px;
+    background: #4479BA;
+    background-image: url(/ensdf/images/service-small.ico);
+    background-repeat: no-repeat;
+    color: #FFF;
+    font-size: small;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #20538D;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, .4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .4), 0 1px 1px rgba(0, 0, 0, .2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .4), 0 1px 1px rgba(0, 0, 0, .2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, .4), 0 1px 1px rgba(0, 0, 0, .2);
+    -webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    transition-duration: 0.2s
+}
+
+.request-link:hover,
+.request-link:focus {
+    background: #356094;
+    background-image: url(/ensdf/images/service-med.ico);
+    background-repeat: no-repeat;
+    border: solid 1px #2A4E77;
+    text-decoration: none
+}
+
+.request-link:active {
+    -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, .6);
+    -moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, .6);
+    box-shadow: inset 0 1px 4px rgba(0, 0, 0, .6);
+    background: #2E5481;
+    background-image: url(/ensdf/images/service-med.ico);
+    background-repeat: no-repeat;
+    border: solid 1px #203E5F
+}

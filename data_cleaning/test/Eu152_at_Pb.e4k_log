@@ -1,0 +1,14 @@
+27-May-25 18:43:31: Created new escl8r data file Eu152_at_Pb.e4k_log
+      ...from matrix file Eu152_at_Pb.m4b
+      ...by taking all 4k channels.
+27-May-25 18:43:44: Energy calibration file = linear.aca
+27-May-25 18:43:47: Efficiency calibration file = demo.aef
+27-May-25 18:43:50: Error for energy calibration = 0.030000
+27-May-25 18:43:50: Percentage error on efficiency = 3.000000
+27-May-25 18:43:56: Gaussian peak shapes selected.
+27-May-25 18:43:57: Peak width parameters = 3.000000 1.414214 0.000000
+27-May-25 18:43:57: New background spectra, no E2-enhancement.
+       ...Total projection spectrum file name =  xpr.spe
+       ...Total background spectrum file name =  Eu_bkgd.spe
+27-May-25 18:44:08: Percentage error on background = 5.000000
+27-May-25 18:44:08:  2D Scaling factor = 31.889565
