@@ -1,4 +1,4 @@
-# Isomer Lab 
+# Isomer Lab
 **Last commit: 08-27-2025**
    
 
@@ -24,12 +24,10 @@
 ## Setup:
    Clone the repository:
   ```
-  git@github.com:Purdue-Jung/Isomer-ARL.git
+  git clone git@github.com:Purdue-Jung/Isomer-ARL.git
   ```
   or
 ```
   git clone https://github.com/Purdue-Jung/Isomer-ARL.git
 ```
-
-
   The first way is best.
