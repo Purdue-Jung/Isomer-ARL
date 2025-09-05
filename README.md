@@ -8,7 +8,7 @@
 ## Structure:
 
   Isomer-ARL  
-  ├── Isomer-Project-main/ [Isomer Lab](https://github.com/Purdue-Jung/Isomer-ARL/tree/main/Isomer-Project-main)
+  ├── Isomer-Project-main/ [Isomer Lab](https://github.com/Purdue-Jung/Isomer-ARL/tree/main/Isomer-Project-main)  
   │  
   ├── machine_learning/ [ML work](https://github.com/Purdue-Jung/Isomer-ARL/tree/main/machine_learning)  
   │   ├── [CNN](https://github.com/Purdue-Jung/Isomer-ARL/tree/main/machine_learning/CNN)  
