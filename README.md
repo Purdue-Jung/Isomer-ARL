@@ -27,7 +27,7 @@
   git clone git@github.com:Purdue-Jung/Isomer-ARL.git
   ```
   or
-```
+  ```
   git clone https://github.com/Purdue-Jung/Isomer-ARL.git
-```
+  ```
   The first way is best.
